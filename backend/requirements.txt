@@ -1,0 +1,40 @@
+# =============================================================================
+# DataJanitor — Python Dependencies
+# =============================================================================
+# Install: pip install -r requirements.txt
+# Tested with Python 3.14
+# =============================================================================
+
+# --- Web framework ---
+fastapi>=0.115.6
+uvicorn[standard]>=0.34.0
+
+# --- Data processing ---
+pandas>=2.2.3
+pandera>=0.21.1
+
+# --- Machine learning (anomaly detection) ---
+scikit-learn>=1.6.1
+
+# --- Validation & settings ---
+pydantic>=2.10.5
+pydantic-settings>=2.7.1
+
+# --- Database ---
+sqlalchemy>=2.0.37
+aiosqlite>=0.20.0
+
+# --- Email ---
+aiosmtplib>=3.0.2
+
+# --- File handling ---
+python-multipart>=0.0.20
+chardet>=5.2.0
+
+# --- Testing ---
+pytest>=8.3.4
+httpx>=0.28.1
+pytest-asyncio>=0.25.2
+
+# --- Utilities ---
+python-dotenv>=1.0.1
