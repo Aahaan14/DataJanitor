@@ -1,1 +1,1 @@
-"""DataJanitor — api package."""
+"""DataJanitor — routes package."""

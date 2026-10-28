@@ -1,50 +1,5 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-*.egg-info/
-dist/
-build/
-*.egg
-
-# Virtual environment
-venv/
-.venv/
-env/
-
-# Environment variables
-.env
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Project data — never commit user uploads or generated files
-backend/uploads/
-backend/cleaned/
-backend/reports/
-*.db
-*.sqlite3
-
-# Node / Frontend
 node_modules/
-frontend/dist/
-frontend/.env
-
-# Testing
-.pytest_cache/
-htmlcov/
-.coverage
-coverage.xml
-
-# Misc
-*.log
+dist/
+*.local
+.env
+coverage/

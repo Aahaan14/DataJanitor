@@ -1,0 +1,13 @@
+customer_id,name,email,age,city,signup_date,order_amount
+C001,  Asha Rao ,asha@example.com,24,Mumbai,2025-01-15,1200
+C002,Rohan Mehta,rohan@example.com,,Pune,2025-02-03,850
+C003,MIRA SHAH,mira@example.com,31,mumbai,31/02/2025,"1,200"
+C004,Dev Patel,dev@example.com,-5,Delhi,2025-03-18,-40
+C005,Isha Nair,N/A,27,Pune,2025-04-02,450
+C006,Kabir Das,kabir@example.com,29,Mumbai,2025-04-12,999999
+C007,Asha Rao,asha@example.com,24,Mumbai,2025-01-15,1200
+C008,Neel Joshi,neel@example.com,twenty,N/A,2025-05-09,unknown
+C009,Sara Khan,sara@example.com,22,  Delhi  ,2025-05-21,0
+C010,Arjun Bose,arjun@example.com,38,Pune,2025-06-01,675
+C011,Tara Iyer,tara@example.com,26,Mumbai,2025-06-11,720
+C012,Vikram Sen,vikram@example.com,33,Delhi,2025-06-20,810
